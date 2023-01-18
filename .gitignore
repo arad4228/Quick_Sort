@@ -1,0 +1,5 @@
+# PyCham File
+.idea
+
+# 생성된 숫자를 저장하는 csv
+GenerateNumber.csv
